@@ -1,19 +1,20 @@
-# DatingApp
+# The Dating App
 
 
-Demo
+<h3> Demo of the project : </h3>
 
 
 Azure published - https://dappdemo.azurewebsites.net/
 
 
+<hr>
 
 ![1](https://user-images.githubusercontent.com/37971771/152671210-38241984-f36e-46cc-b140-e3845f99aef9.png)
 ![1 png2](https://user-images.githubusercontent.com/37971771/152671211-2747e6f2-9de4-465d-a26d-d05fb2ef0c19.png)
 ![3](https://user-images.githubusercontent.com/37971771/152671213-ba9234d1-ed8c-478d-8e66-b8bf90fc17bf.png)
 
 
-
+<hr>
 Dating App ( Angular 9 / .Net WebAPI Core (v 3.0) / Entity Framework core ( v 3.0) / SQL Server)
 
 - Identity and Role Management
