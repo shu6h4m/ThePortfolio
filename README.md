@@ -4,16 +4,14 @@
 Demo
 
 
-Azure published - https://dappdemo.azurewebsites.net/ - Register with your information and check the app flow OR you can just login with an existing user lola/password
+Azure published - https://dappdemo.azurewebsites.net/
 
 
 
-![2020-08-03](https://user-images.githubusercontent.com/48589838/89154120-e9503000-d583-11ea-979e-7f1b832365d5.png)
-![2020-08-03 (2)](https://user-images.githubusercontent.com/48589838/89154128-ee14e400-d583-11ea-9a45-11d5ea048f0f.png)
-![2020-08-03 (3)](https://user-images.githubusercontent.com/48589838/89154131-efdea780-d583-11ea-9c0b-fe60b6e80fb5.png)
-![2020-08-03 (1)](https://user-images.githubusercontent.com/48589838/89154143-f4a35b80-d583-11ea-816a-add12823d511.png)
-![2020-08-03 (4)](https://user-images.githubusercontent.com/48589838/89154146-f705b580-d583-11ea-8350-0c8a37a1e832.png)
-![2020-08-03 (5)](https://user-images.githubusercontent.com/48589838/89154207-113f9380-d584-11ea-83d8-cc3f3cea5ca7.png)
+![1](https://user-images.githubusercontent.com/37971771/152671210-38241984-f36e-46cc-b140-e3845f99aef9.png)
+![1 png2](https://user-images.githubusercontent.com/37971771/152671211-2747e6f2-9de4-465d-a26d-d05fb2ef0c19.png)
+![3](https://user-images.githubusercontent.com/37971771/152671213-ba9234d1-ed8c-478d-8e66-b8bf90fc17bf.png)
+
 
 
 Dating App ( Angular 9 / .Net WebAPI Core (v 3.0) / Entity Framework core ( v 3.0) / SQL Server)
